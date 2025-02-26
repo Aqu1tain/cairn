@@ -15,7 +15,7 @@ A Rust library and command-line tool for converting Celeste map files between bi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cairn.git
+git clone https://github.com/Aquitain/cairn.git
 cd cairn
 
 # Build in release mode

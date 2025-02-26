@@ -7,12 +7,12 @@ Thank you for your interest in contributing to Cairn! This document provides gui
 1. **Fork the repository** on GitHub.
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/cairn.git
+   git clone https://github.com/Aquitain/cairn.git
    cd cairn
    ```
 3. **Add the upstream remote**:
    ```bash
-   git remote add upstream https://github.com/ORIGINAL-OWNER/cairn.git
+   git remote add upstream https://github.com/Aquitain/cairn.git
    ```
 4. **Create a new branch** for your feature or bug fix:
    ```bash
