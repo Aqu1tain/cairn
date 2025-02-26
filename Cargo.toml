@@ -1,0 +1,23 @@
+[package]
+name = "cairn"
+version = "0.1.0"
+edition = "2024"
+authors = ["Akitain"]
+description = "A Celeste map encoder/decoder for converting between binary and JSON formats"
+readme = "README.md"
+repository = "https://github.com/Aquitain/cairn"
+license = "MIT"
+keywords = ["celeste", "game", "map", "encoder", "decoder"]
+categories = ["game-development", "command-line-utilities"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[lib]
+name = "cairn"
+path = "src/lib.rs"
+
+[[bin]]
+name = "cairn"
+path = "src/main.rs"
