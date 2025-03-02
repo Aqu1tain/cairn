@@ -1,7 +1,7 @@
 [package]
 name = "cairn"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 authors = ["Akitain"]
 description = "A Celeste map encoder/decoder for converting between binary and JSON formats"
 readme = "README.md"
